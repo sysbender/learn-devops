@@ -1,7 +1,7 @@
 #! /bin/bash
 
+#https://gist.github.com/bradtraversy/ac3b1136fc7d739a788ad1e42a78b610
 
-# https://gist.githubusercontent.com/bradtraversy/ac3b1136fc7d739a788ad1e42a78b610/raw/a5933e6875d3afc0b33277aa0fb955a203f914b1/myscript.sh
 # ECHO COMMAND
 # echo Hello World!
 
